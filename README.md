@@ -1,6 +1,6 @@
 <h1>Quote Generator/ Gerador de citações aleatórias</h1>
 <h3>Screenshot da tela do projeto</h3>
-<img src= "imagens\telaProjeto.png" alt="Screenshot do projeto">
+<img src= "https://github.com/lihbolivia/Quote-Generator/blob/main/imagens/telaProjeto.png" alt="Screenshot do projeto">
 
 
   <h3>Ferramentas usadas:</h3>
