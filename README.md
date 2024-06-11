@@ -8,5 +8,6 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
+  <li>API de citações aleatórias</li>
 
 </ul>
